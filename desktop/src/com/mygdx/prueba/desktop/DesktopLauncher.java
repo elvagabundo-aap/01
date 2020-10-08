@@ -8,6 +8,6 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new PruebaInstaladorPropio(), config);
-		System.out.println("Hola GIT!!");
+		System.out.println("Hola Feo!!");
 	}
 }
