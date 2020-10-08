@@ -9,5 +9,6 @@ public class DesktopLauncher {
         LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
         new LwjglApplication(new PruebaInstaladorPropio(), config);
         System.out.println("Hola GIT!!");
+        System.out.println("Eres muy fea!!");
     }
 }
